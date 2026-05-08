@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pytorch-lightning==1.9.0
+pytorch-forecasting==0.10.3
+fastapi
+uvicorn
+shap
